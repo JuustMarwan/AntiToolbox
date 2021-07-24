@@ -1,0 +1,12 @@
+name: AntiToolbox
+main: Zinkil\AntiToolbox\Loader
+api: 3.0.0
+version: 1.0.0
+author: Zinkil
+website: https://github.com/Zinkil-YT
+description: "Prevent Toolbox Players From Joining Your Server."
+
+permissions:
+  antitoolbox.bypass.check:
+    description: 'Permission to bypass the antitoolbox check.'
+    default: op
